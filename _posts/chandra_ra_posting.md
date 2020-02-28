@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../images/hks_logo.png" width = 400 height = 200>
+<img src="../images/hks_logo.png">
 </p>
 
 ### Amitabh Chandra
