@@ -2,10 +2,12 @@
 <img src="../images/hks_logo.png">
 </p>
 
-## Amitabh Chandra
+### Amitabh Chandra
 
 Ethel Zimmerman Wiener Professor of Public Policy, Harvard Kennedy School  
 Henry and Allison McCance Professor of Business Administration, Harvard Business School
+
+---
 
 I am seeking one or more skilled and highly motivated individuals for full-time research assistance. A commitment of at least one year is required, but interest in two years is preferred. I am an economist doing empirical research related to health care and public economics.
 
