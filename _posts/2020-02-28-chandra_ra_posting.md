@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Amitabh Chandra RA Posting
 ---
 
 <p align="center">
