@@ -1,5 +1,5 @@
 <p align="center">
-<img src="../images hks_logo.png">
+<img src="../images/hks_logo.png">
 </p>
 
 ## Amitabh Chandra
@@ -16,4 +16,6 @@ Applicants should be completing (or have completed) a Bachelors or Master’s de
 
 The position will be based in Cambridge, MA, at Harvard’s Kennedy School of Government. The preferred start date is July 1, 2020, but applicants will have the ability to start earlier. The compensation and benefit package are competitive.
 
-To apply, please submit your information via this online form. The form will ask you to upload a resume, transcript(s), and cover letter.
+To apply, please submit your information via this online [form](https://forms.gle/WiBVvEU4BWvvGXLs9). The form will ask you to upload a resume, transcript(s), and cover letter.
+
+If you have any questions, please email Evan Flack at evan_flack@hks.harvard.edu.
