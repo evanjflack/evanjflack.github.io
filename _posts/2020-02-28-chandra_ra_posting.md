@@ -1,3 +1,8 @@
+---
+layout: post
+title: Amitabh Chandra RA Posting
+---
+
 <p align="center">
 <img src="../images/hks_logo.png">
 </p>
