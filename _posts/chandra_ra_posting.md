@@ -1,9 +1,8 @@
 <p align="center">
-<img src="../images/hks_logo.png">
+<img src="../images/hks_logo.png" width = 400 height = 200>
 </p>
 
 ### Amitabh Chandra
-
 Ethel Zimmerman Wiener Professor of Public Policy, Harvard Kennedy School  
 Henry and Allison McCance Professor of Business Administration, Harvard Business School
 
