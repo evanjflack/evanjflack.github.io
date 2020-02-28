@@ -1,6 +1,6 @@
-
-
-<img align="center" src="../images/hks_logo.png">
+<p align="center">
+<img src="../images hks_logo.png">
+</p>
 
 ## Amitabh Chandra
 
