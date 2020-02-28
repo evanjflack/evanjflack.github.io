@@ -1,5 +1,7 @@
 
 
+<img align="center" src="../images/hks_logo.png">
+
 ## Amitabh Chandra
 
 Ethel Zimmerman Wiener Professor of Public Policy, Harvard Kennedy School
