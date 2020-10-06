@@ -4,7 +4,7 @@ title: Music
 permalink: /music/
 ---
 
-![GitHub Logo](/images/drums1.png)
+![GitHub Logo](/images/drums1.jpg)
 
 
 
