@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Music
-permalink: /music/
+permalink: /music
 ---
 
 ![drums1](/images/drums1.jpg)
