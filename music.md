@@ -8,7 +8,7 @@ permalink: /music/
 
 Outside of economics, I am jazz and rock drummer. 
 
-### [Rockwood](rockwoodtheband.com)
+### [Rockwood](https://www.rockwoodtheband.com)
 Right now, I play with Rockwood, a 5-perice root-rock group based in Boston, MA. We released our self-titled debut EP in 2020.
 
 
