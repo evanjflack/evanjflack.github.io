@@ -5,8 +5,6 @@ title: Music
 permalink: /music
 ---
 
-Outside of economics, I am jazz and rock drummer.
-
 ![drums1](/images/drums1.jpg)
 
 ### [Rockwood](https://www.rockwoodtheband.com)
