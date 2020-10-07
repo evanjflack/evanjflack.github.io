@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Research
+tags: [research]
 permalink: /research/
 ---
 
