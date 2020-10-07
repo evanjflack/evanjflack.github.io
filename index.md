@@ -12,7 +12,7 @@ Ouside of economics, I am a jazz and rock drummer.
 
 ### Curriculum vitae
 
-A pdf of my full CV is available [here](images/)
+A pdf of my full CV is available [here](images/flack_cv.pdf).
 
 
 ### Contact me
