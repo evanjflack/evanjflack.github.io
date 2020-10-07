@@ -1,5 +1,6 @@
 ---
 layout: page
+published: true
 title: Music
 permalink: /music
 ---
