@@ -16,4 +16,4 @@ A pdf of my full CV is available [here](images/flack_cv.pdf).
 
 ### Contact me
 
-Feel free to send me an email to evanjflack at gmail dot com. 
+Feel free to send me an email: evanjflack at gmail dot com
