@@ -4,11 +4,11 @@ title: About Me
 order: 1
 ---
 
-I am a research assistant to Prof. Amitabh Chandra at the Harvard Kennedy School of Government in Cambridge, MA. I am interested in public, health, and labor Economics. I am curently applying to PhD programs in Economics (and adjacent fields) for admission in Fall, 2021.
+I am a research assistant to Prof. Amitabh Chandra at the Harvard Kennedy School of Government in Cambridge, MA. I am interested in health, public, innovation, and industrial organization economics. I am curently applying to PhD programs in Economics (and adjacent fields) for admission in Fall, 2021.
 
 Prior to Harvard, I earned a B.A. in Economics and Mathematics from Rice University in Houston, TX.
 
-Ouside of Economics, I am a jazz and rock drummer.
+Ouside of Economics, I am a rock and jazz drummer.
 
 ### Curriculum vitae
 
