@@ -2,8 +2,7 @@
 layout: page
 published: true
 title: Research
-tags: [research]
-permalink: /research/
+permalink: /research
 ---
 
 ### Working Papers
