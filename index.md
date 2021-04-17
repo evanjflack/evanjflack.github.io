@@ -4,16 +4,14 @@ title: About Me
 order: 1
 ---
 
-I am a research assistant to Prof. Amitabh Chandra at the Harvard Kennedy School of Government in Cambridge, MA. I am interested in health, public, innovation, and industrial organization economics. I am curently applying to PhD programs in Economics (and adjacent fields) for admission in Fall, 2021.
+I am an incoming PhD student in the Department of Economics at Stanford University. Currently, I am a research assistant at the Harvard Kennedy School of Government in Cambridge, MA. Prior to Harvard, I earned a B.A. in Economics and Mathematics from Rice University in Houston, TX. Ouside of Economics I am a rock and jazz drummer, and a (pained) Baltimore Orioles fan.
 
-Prior to Harvard, I earned a B.A. in Economics and Mathematics from Rice University in Houston, TX.
+### Research Interests
+Heath, Public, Innovation, Industiral Organization
 
-Ouside of Economics, I am a rock and jazz drummer.
-
-### Curriculum vitae
+### Curriculum Vitae
 
 A pdf of my full CV is available [here](images/flack_cv.pdf).
 
-### Contact me
-
-Feel free to send me an email: evanjflack at gmail dot com
+### Contact Me
+Email: evanjflack at gmail dot com
