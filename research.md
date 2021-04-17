@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Research
-permalink: /research
+permalink: /research/
 ---
 
 ### Working Papers
