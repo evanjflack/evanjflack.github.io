@@ -5,7 +5,11 @@ title: Research
 permalink: /research/
 ---
 
-### Working Papers
+### Job Market Paper (to be posted mid-November)
+
+**Responding to Craft Entry: Evidence from Consumer Packaged Goods**
+
+### Published Papers
 
 **["The Health Costs of Cost-Sharing"](https://www.nber.org/system/files/working_papers/w28439/w28439.pdf)** with Amitabh Chandra and Ziad Obermeyer
 
@@ -18,9 +22,4 @@ The Quarterly Journal of Economics, Volume 139, Issue 4, November 2024, Pages 20
 
 ---
 
-### Research in Progress
-
-**Heterogenous Effects of Mergers in Consumer Packaged Goods**
-
-**Growth Through Entry Deterrrence: Evidence From Craft Beer Acquisitions**
 
