@@ -8,7 +8,7 @@ I am a 5th-year PhD candidate in the Department of Economics at Stanford Univers
 
 I am interested in empirical industrial organization and applied microeconomics. In my job market paper (available mid-november), I study how historcially dominant producers of consumer packaged goods respond to entry by "craft" firms. I am advised by Liran Einav, Ali Yurukoglu, and Jose Ignacio Cuesta.
 
-From 2018-2021 I was a research assistant to Amitabh Chandra at the Harvard Kennedy School of Government. In 2018, I graduated cum laude from Rice University with a B.A. in Mathematical Economic Analysis and Mathematics.
+From 2018 to 2021 I was a research assistant to Amitabh Chandra at the Harvard Kennedy School of Government. In 2018, I graduated cum laude from Rice University with a B.A. in Mathematical Economic Analysis and Mathematics.
 
 ### Curriculum Vitae
 
