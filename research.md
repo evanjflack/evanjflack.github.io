@@ -5,7 +5,7 @@ title: Research
 permalink: /research/
 ---
 
-### Job Market Paper (available mid-November)
+### Job Market Paper (available mid-November, contact author for draft)
 
 **Responding to Craft Entry: Evidence from Consumer Packaged Goods**
 
