@@ -1,4 +1,4 @@
-#
+t #
 # This file contains configuration flags to customize your site
 #
 
@@ -9,7 +9,7 @@ name: Evan Flack
 description: Stanford Economics PhD Candidate 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/flack_headshot.jpg
+avatar: images/flack_headshot_edit.png
 
 #
 # Flags below are optional
