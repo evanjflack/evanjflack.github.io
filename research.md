@@ -11,6 +11,11 @@ permalink: /research/
 
 Over the last 20 years the consumer packaged goods (CPG) industry, once dominated by a small number of dominant "legacy" firms in each product category, has seen a wave of entry from small "independent" firms. Legacy firms have responded to this entry by both acquiring independent producers and introducing new brands that closely resemble the characteristics of independent-made products. I study this phenomenon in two product categories: yogurt and beer. Using grocery scanner data and a novel empirical characterization of the product space, I first document how the product portfolios of firms evolved from 2006-2020. I then develop and estimate a dynamic model in which firms invest in both their product portfolios and geographic footprints across different market segments (e.g. craft beer). Finally, I present counterfactual analysis in which legacy producers are barred from entering new market segments. I find that independent yogurt producers would have increased investment enough to leave overall variety/product availability unchanged. In beer however, I find that barring legacy entry would have led to substantially lower variety/availability, likely leaving consumers worse off.
 
+<a href="mailto:flack@stanford.edu?subject=Hello&body=Your message here">Email Me</a>
+
+
+
+
 ### Published Papers
 
 **["The Health Costs of Cost-Sharing"](https://academic.oup.com/qje/article-abstract/139/4/2037/7664375?redirectedFrom=fulltext&login=false)** with Amitabh Chandra and Ziad Obermeyer
