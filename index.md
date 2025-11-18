@@ -6,7 +6,7 @@ order: 1
 
 I am a 5th-year PhD candidate in the Department of Economics at Stanford University and a National Science Foundation Graduate Research Fellow. I am on the 2025-2026 job market seeking economic consulting and industry positions. 
 
-I am an applied microeconomist with a focus on empirical industrial organization. In my job market paper (available mid-november), I study how historcially dominant producers of consumer packaged goods responded to product differentiation by "independent" entrants. I am advised by Liran Einav, Ali Yurukoglu, and Jose Ignacio Cuesta.
+I am an applied microeconomist with a focus on empirical industrial organization. In my job market paper I study how historcialy dominant producers of consumer packaged goods responded to product differentiation by "independent" entrants. I am advised by Liran Einav, Ali Yurukoglu, and Jose Ignacio Cuesta.
 
 From 2018 to 2021 I was a research assistant to Amitabh Chandra at the Harvard Kennedy School of Government. In 2018, I graduated cum laude from Rice University with a B.A. in Mathematical Economic Analysis and Mathematics.
 
